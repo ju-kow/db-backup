@@ -1,25 +1,25 @@
 {
   "posts": [
     {
-      "id": 1,
-      "title": "json-server",
+      "id": 6,
+      "title": "db2",
       "author": "typicode"
     },
     {
-      "id": 4,
-      "title": "Another title",
+      "id": 6,
+      "title": "db2",
       "author": "jules"
     },
     {
-      "id": 2,
-      "title": "Another title",
+      "id": 4,
+      "title": "db2",
       "author": "jules"
     }
   ],
   "comments": [
     {
       "id": 1,
-      "body": "some comment",
+      "body": "db2",
       "postId": 1
     }
   ],
